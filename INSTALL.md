@@ -12,6 +12,6 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 
 #### Activating theme
 
-1. Do this
-2. Then that
+1. Replace color lines from your `~/.kdiff3rc` (ex on win: `C:\Users\<name>\.kdiff3rc`)  file with the ones from dracula theme's `.kdiff3rc`
+2. Restart Kdiff3
 3. Boom! It's working
