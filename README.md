@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [KDiff3](http://kdiff3.sourceforge.net/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [KDiff3](http://kdiff3.sourceforge.net/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/kdiff3](https://draculatheme.com/kdiff3).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/kdiff3/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![cdalexndr](https://github.com/cdalexndr.png?size=100)](https://github.com/cdalexndr) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[cdalexndr](https://github.com/cdalexndr) |
 
 ## License
 
